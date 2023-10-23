@@ -36,9 +36,13 @@ Ce projet implémente une application de gestion de machines et de salles. Elle 
 Les technologies employées dans ce projet sont les suivantes :
 
 Java
+
 MySQL (pour la gestion de la base de données)
+
 Hibernate (pour la couche de persistance)
+
 RMI (pour la communication client-serveur)
+
 
 ## Configuration du Projet
 
