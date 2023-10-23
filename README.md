@@ -22,7 +22,8 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 
 ![Screenshot 2023-10-23 005234](https://github.com/Kenza-raki/TP-RMI/assets/116951093/629dc21f-d47e-473a-8be4-f9801092cb5e)
 
-![Screenshot 2023-10-23 005201](https://github.com/Kenza-raki/TP-RMI/assets/116951093/d271f4cc-3210-4850-9914-0eb10b95fd4e)
+<img width="929" alt="image" src="https://github.com/Kenza-raki/TP-RMI/assets/116951093/f52c58ff-9bd3-4a07-a31e-96bf8f7adac9">
+
 
 ## La base de données 
 
