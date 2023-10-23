@@ -29,14 +29,6 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 
 ## Configuration du Projet
 
-Pour exécuter ce projet localement, suivez ces étapes :
-
-1. Clonez ce dépôt sur votre machine locale.
-
-2. Assurez-vous d'avoir les dépendances nécessaires installées (par exemple, Java, RMI, etc.).
-
-3. Exécutez l'application en utilisant les commandes suivantes :
-
-```shell
-$ cd chemin-vers-le-dossier-du-projet
-$ java -jar mon_projet.jar
+Pour exécuter ce projet localement,
+Clônez ce dépôt sur votre machine locale.
+git clone (https://github.com/Kenza-raki/TP-RMI/)
