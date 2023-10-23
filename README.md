@@ -44,6 +44,22 @@ Hibernate (pour la couche de persistance)
 RMI (pour la communication client-serveur)
 
 
+## Structure de projet 
+
+# ServerRMI 
+src/main/java/entities: Classes d'entités pour les machines et les salles.
+src/main/java/util: Classe HibernateUtil pour la gestion de la SessionFactory.
+src/main/java/service: Classes MachineService et SalleService pour les opérations de service.
+src/main/java/config: Fichier hibernate.cfg.xml pour la configuration d'Hibernate.
+src/main/java/dao: Interface IDao pour les opérations CRUD.
+src/main/java/server: Classe Server pour démarrer le serveur RMI.
+# ClientRMI 
+src/main/java/entities: Classes d'entités pour les machines et les salles.
+src/main/java/dao: Interface IDao pour les opérations CRUD.
+src/main/java/config: Classe Config pour la configuration RMI.
+src/main/resources: Fichier configuration.properties pour spécifier l'adresse IP et le port du serveur.
+src/main/java/ui: Interface graphique Swing pour la gestion des salles et des machines.
+
 ## Configuration du Projet
 
 Pour exécuter ce projet localement,
