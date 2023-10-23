@@ -14,7 +14,8 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 
 ## Démo Vidéo
 
-[screen-capture (2).webm](https://github.com/Kenza-raki/TP-RMI/assets/116951093/1ed92313-59e0-40ba-b767-e7f2816f4dac)
+[screen-capture (3).webm](https://github.com/Kenza-raki/TP-RMI/assets/116951093/16bcdf80-655c-4684-9328-819fbb7af519)
+
 
 
 ## Les interfaces de l'application
