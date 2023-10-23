@@ -1,16 +1,17 @@
 # Application de Gestion de Machines et de Salles
 
-Ce projet est une application de gestion de machines et de salles qui permet d'ajouter, supprimer, modifier et trier les machines par salle en utilisant la technologie RMI (Remote Method Invocation) qui est une technologie de programmation qui permet à des objets Java d'interagir entre des machines distantes, appelées serveurs, de manière transparente. Elle fait partie intégrante de la plateforme Java et facilite la création d'applications distribuées en Java.
+
+Ce projet implémente une application de gestion de machines et de salles. Elle offre la possibilité d'ajouter, supprimer, modifier et organiser les machines en fonction de leur emplacement, en utilisant la technologie RMI (Remote Method Invocation). Cette technologie de programmation permet aux objets Java d'interagir de manière transparente entre des machines distantes, désignées sous le nom de serveurs. Elle est intégrée dans la plateforme Java et simplifie le développement d'applications distribuées en Java.
 
 ## Fonctionnalités
 
 - **Ajouter une machine**: Permet d'ajouter une nouvelle machine en spécifiant sa référence, sa marque, son prix et la salle à laquelle elle est associée.
 
-- **Supprimer une machine**: Permet de supprimer une machine existante en fonction de son identifiant.
+- **Supprimer une machine**: Vous pouvez effacer une machine déjà présente en utilisant son identifiant comme critère.
 
-- **Modifier une machine**: Permet de mettre à jour les informations d'une machine existante.
+- **Modifier une machine**: Il est possible de mettre à jour les informations liées à une machine préexistante.
 
-- **Trier les machines par salle**: Trie les machines par salle d'appartenance pour une meilleure gestion.
+- **Trier les machines par salle**: Cela vous permet de classer les machines selon leur salle d'affectation, facilitant ainsi leur gestion.
 
 ## Démo Vidéo
 
@@ -28,6 +29,16 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 ## La base de données 
 
 ![Screenshot 2023-10-23 005313](https://github.com/Kenza-raki/TP-RMI/assets/116951093/7a7439c3-fc5a-4d81-94b8-665000b04192)
+
+
+## Les technologies utilisées 
+
+Les technologies employées dans ce projet sont les suivantes :
+
+Java
+MySQL (pour la gestion de la base de données)
+Hibernate (pour la couche de persistance)
+RMI (pour la communication client-serveur)
 
 ## Configuration du Projet
 
