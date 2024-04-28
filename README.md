@@ -1,6 +1,7 @@
 # Application de Gestion de Machines et de Salles
 
 
+
 Ce projet implémente une application de gestion de machines et de salles. Elle offre la possibilité d'ajouter, supprimer, modifier et organiser les machines en fonction de leur emplacement, en utilisant la technologie RMI (Remote Method Invocation). Cette technologie de programmation permet aux objets Java d'interagir de manière transparente entre des machines distantes, désignées sous le nom de serveurs. Elle est intégrée dans la plateforme Java et simplifie le développement d'applications distribuées en Java.
 
 ## Fonctionnalités
